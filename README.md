@@ -87,9 +87,6 @@ It will  do most of the tasks on voice command like :
 
 As of now we are still working on maximizing the tasks it can do and add more and more functionality to it.
 
-
-_For more examples about automation and selenium, please see my other repo [Automation by Keshav](https://github.com/keshavjha018/Web_Automation)_
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -119,10 +116,10 @@ Names
 - Keshav kumar Jha (20bcs070)
 - Lucky Yadav (20bcs077)
 - Daulat  Kumar Jha (20bcs037)
-- Brij
-- Hemant
-- Rohan
-- Sparsh
-- Tejas
+- Brij (20bcs033)
+- Hemant (20bcs058)
+- Rohan (20bcs113)
+- Sparsh (20bcs127)
+- Tejas (20bcs134)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
