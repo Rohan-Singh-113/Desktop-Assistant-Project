@@ -1,6 +1,6 @@
 <br />
 <div align="center">
-<!--   <a href="https://github.com/keshavjha018/Desktop_Assistant_Project">
+<!--   <a href="https://github.com/Rohan-Singh-113/Desktop_Assistant_Project">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a> -->
 
@@ -9,7 +9,7 @@
   <p align="center">
     Automates the boring tasks for you & Saves your time
     <br />
-    <a href="https://github.com/keshavjha018/Desktop_Assistant_Project/issues"><strong>Suggest a feature »</strong></a>
+    <a href="https://github.com/Rohan-Singh-113/Desktop_Assistant_Project/issues"><strong>Suggest a feature »</strong></a>
     <br />
     <br />
     
